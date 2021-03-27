@@ -6,6 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: CrackWatchBot
     url: https://crackwatchbot.matheusolivei56.repl.co/
+    method: HEAD
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
