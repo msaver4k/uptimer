@@ -4,17 +4,17 @@
     "url": "https://crackwatchbot.matheusolivei56.repl.co/",
     "icon": "https://favicons.githubusercontent.com/crackwatchbot.matheusolivei56.repl.co",
     "slug": "crack-watch-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 313,
-    "timeWeek": 327,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 725,
+    "timeDay": 281,
+    "timeWeek": 317,
+    "timeMonth": 733,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +121,7 @@
     "time": 46,
     "timeDay": 72,
     "timeWeek": 54,
-    "timeMonth": 46,
+    "timeMonth": 47,
     "timeYear": 46,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 74,
     "timeDay": 107,
     "timeWeek": 90,
-    "timeMonth": 74,
+    "timeMonth": 75,
     "timeYear": 74,
     "dailyMinutesDown": {}
   }
